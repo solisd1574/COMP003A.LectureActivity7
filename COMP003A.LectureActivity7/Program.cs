@@ -5,6 +5,7 @@
  * 
  */
 
+
 namespace COMP003A.LectureActivity7
 {
     internal class Program
